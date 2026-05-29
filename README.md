@@ -14,6 +14,7 @@ Created as part of my transition into IT support, focusing on clear communicatio
 - Wi-Fi Connectivity Issues
 - Outlook Not Sending Emails
 - Basic macOS Troubleshooting
+- Password Reset and Account Lockout
 
 ---
 

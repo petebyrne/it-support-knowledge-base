@@ -178,6 +178,37 @@ Escalate if:
 
 ---
 
+## Interview Questions
+
+### What is a VPN?
+
+> A VPN creates a secure encrypted connection between a user's device and a private company network, allowing secure remote access to company resources.
+
+### Why do companies use VPNs?
+
+> VPNs allow employees to securely access internal systems, applications and files while working remotely.
+
+### A user says they cannot connect to the VPN. What would you do?
+
+> I'd determine whether the issue affects one user or multiple users, verify internet connectivity, check credentials and MFA, review any error messages and identify whether the issue is authentication, network or service related.
+
+### Why is checking scope important?
+
+> It helps determine whether the issue is isolated to one user or indicates a wider infrastructure or service problem.
+
+### What information would you gather before escalating a VPN issue?
+
+> Error messages, connectivity status, recent password changes, MFA behaviour, device information and the troubleshooting steps already performed.
+
+### What are common causes of VPN failures?
+
+> Incorrect credentials, MFA issues, internet connectivity problems, expired passwords, VPN service outages or certificate-related issues.
+
+### How would you explain a VPN to a non-technical user?
+
+> A VPN creates a secure connection between your device and the company network so you can safely access work resources when you're away from the office.
+
+
 ## Interview Scenario
 
 ### User Reports:

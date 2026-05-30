@@ -1,12 +1,22 @@
-# it-support-troubleshooting-playbook
-Common IT support issues and step-by-step troubleshooting guides
-# IT Support Troubleshooting Playbook
+# IT Support Knowledge Base & Troubleshooting Playbooks
 
-This repository contains practical troubleshooting guides for common IT support issues. 
+A collection of IT support troubleshooting guides, service desk procedures, and core technical concepts created as part of my transition into IT Support.
 
-Created as part of my transition into IT support, focusing on clear communication, structured problem-solving, and user-focused solutions.
+This repository demonstrates a structured approach to troubleshooting common support issues, documenting technical processes, and understanding the day-to-day responsibilities of a Service Desk or 1st Line Support Engineer.
 
----
+Topics include:
+
+* Active Directory fundamentals
+* Microsoft 365 support
+* Ticket lifecycle and prioritisation
+* New starter onboarding
+* Password management
+* Networking fundamentals
+* VPN troubleshooting
+* Outlook support
+* Windows and macOS troubleshooting
+
+The guides are written from a practical support perspective, focusing on common real-world scenarios encountered by IT support teams and Managed Service Providers (MSPs).
 
 ## Contents
 
@@ -29,15 +39,28 @@ Created as part of my transition into IT support, focusing on clear communicatio
 
 * [New Starter Onboarding](new-starter-onboarding.md)
 
----
+## Purpose
 
-## Approach
+This repository serves as:
 
-Each guide follows a structured troubleshooting method:
+* A personal revision resource
+* A collection of common IT support workflows
+* Evidence of self-directed technical learning
+* A demonstration of troubleshooting methodology and documentation skills
 
-1. Identify the issue
-2. Check common causes
-3. Apply step-by-step fixes
-4. Confirm resolution
+## Technologies & Topics Covered
 
----
+* Windows 10/11
+* macOS
+* Microsoft 365
+* Active Directory
+* Outlook
+* Teams
+* OneDrive
+* VPNs
+* DNS
+* DHCP
+* Ticketing Systems
+* ITIL Concepts
+* User Account Administration
+* Service Desk Processes

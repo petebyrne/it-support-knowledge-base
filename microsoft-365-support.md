@@ -185,6 +185,37 @@ Escalate if:
 
 ---
 
+## Interview Questions
+
+### What is Microsoft 365?
+
+> Microsoft 365 is Microsoft's cloud-based productivity platform providing services such as Outlook, Teams, OneDrive, Word, Excel and SharePoint.
+
+### What is MFA and why is it used?
+
+> Multi-Factor Authentication requires two or more methods of verification and helps protect accounts if passwords are compromised.
+
+### A user says Outlook isn't sending emails. What would you check first?
+
+> I'd determine whether the issue affects one user or multiple users, check internet connectivity, verify Outlook's connection status and test Outlook Web Access.
+
+### Why would you test Outlook Web Access?
+
+> If Outlook Web Access works, it helps isolate the issue to the Outlook client or local device rather than the user's account or Microsoft 365 service.
+
+### What would you do if a user could not access Teams?
+
+> I'd verify internet connectivity, confirm Microsoft 365 login works, check MFA, restart Teams and gather any error messages before escalating if necessary.
+
+### What are common causes of OneDrive sync issues?
+
+> Authentication problems, insufficient storage, invalid file names, internet connectivity issues or large file uploads.
+
+### What would you do if multiple users suddenly reported email issues?
+
+> I'd suspect a wider Microsoft 365 or Exchange Online issue and check service status before troubleshooting individual devices.
+
+
 ## Interview Summary
 
 A strong 1st line explanation:

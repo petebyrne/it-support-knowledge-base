@@ -26,6 +26,8 @@ The guides are written from a practical support perspective, focusing on common 
 * [Wi-Fi Connectivity Issues](wifi-connectivity-issues.md)
 * [Outlook Not Sending Emails](outlook-not-sending-emails.md)
 * [VPN Connectivity Issues](vpn-connectivity-issues.md)
+* [Microsoft Teams Sign-In Issues](teams-sign-in-issues.md)
+* [Printer Troubleshooting](printer-troubleshooting.md)
 * [Password Reset and Account Lockout](password-reset-account-lockout.md)
 * [Basic macOS Troubleshooting](basic-macos-troubleshooting.md)
 
@@ -33,6 +35,7 @@ The guides are written from a practical support perspective, focusing on common 
 
 * [Active Directory Basics](active-directory-basics.md)
 * [Microsoft 365 Support](microsoft-365-support.md)
+* [DNS, DHCP and Networking Fundamentals](dns-dhcp-networking-fundamentals.md)
 * [Ticket Lifecycle and Prioritisation](ticket-lifecycle-and-prioritisation.md)
 
 ### IT Operations
@@ -53,14 +56,22 @@ This repository serves as:
 * Windows 10/11
 * macOS
 * Microsoft 365
-* Active Directory
 * Outlook
 * Teams
 * OneDrive
-* VPNs
+* Active Directory
+* Authentication & Authorisation
+* Password Management
+* MFA
 * DNS
 * DHCP
-* Ticketing Systems
+* TCP/IP
+* VPNs
+* Wi-Fi Troubleshooting
+* Printer Support
+* Ticket Lifecycle
 * ITIL Concepts
-* User Account Administration
-* Service Desk Processes
+* User Administration
+* New Starter Onboarding
+* Service Desk Operations
+* Technical Documentation
